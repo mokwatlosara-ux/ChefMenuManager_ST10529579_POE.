@@ -4,7 +4,7 @@
 
 Chef's Menu Manager is a React Native (Expo) mobile application that helps restaurant chefs manage their menu from a mobile device. Chefs can add, edit and delete dishes, search and filter the menu, and see an overview of the menu in a statistics screen.
 
-**GitHub repository:** _paste your repo link here_
+**GitHub repository:** https://github.com/mokwatlosara-ux/ChefMenuManager_ST10529579_POE.
 **Demo video (YouTube, unlisted):** _paste your video link here_
 
 ## Features
